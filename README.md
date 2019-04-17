@@ -1,2 +1,2 @@
 # AzureVMAutomation
-![Alt text](screen.jpg?raw=true "Title")
+![Alt text](screen.png?raw=true "Title")
